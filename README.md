@@ -1,2 +1,2 @@
 Hello GitHub!
-This change is only on the new branch
+Conflict from the cloud!
